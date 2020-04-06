@@ -1,0 +1,6 @@
+Flask
+pytz
+beautifulsoup4
+pymongo
+requests
+dnspython
